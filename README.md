@@ -5,7 +5,8 @@
 ## 🚀 Project Objective  
 This project aims to help Walmart leadership understand sales and profit performance across different **Segments**, **Categories**, **Markets**, and **Regions** through a fully **interactive Excel dashboard**. The goal is to derive actionable business insights and make data-driven strategic decisions.
 
-## 📂 Dataset Used  
+## <a href="https://github.com/MD-SHOAIB-ASIF/Excel-Based-Walmart-Data-Analysis-Interactive-Dashboard-Project/blob/main/Walmart%20Data%20Analysis%20and%20Dynamic%20Dashboard%20Project.xlsx"> 📂 Dataset Used </a>
+
 - **Source:** Walmart E-commerce Sales Dataset (Sample, multi-sheet Excel)  
 - **Sheets Included:** `Orders`, `Returns`, `People`, `KPIs`
 
@@ -24,9 +25,9 @@ This project aims to help Walmart leadership understand sales and profit perform
 - Created **KPI Cards**, **Clustered Charts**, **Maps**, and **Donut Charts**
 - Designed an **interactive dashboard** with **slicers** for time/region filters
 
-## 📌 Dashboard Preview  
-> 📸 *[Insert Screenshot Here]*  
-> ![Dashboard Preview](https://github.com/yourusername/Walmart-Data-Analysis/blob/main/images/dashboard-preview.png)
+## 📌 Dashboard Preview  📸
+><img width="1009" alt="Screenshot 2025-05-08 141116" src="https://github.com/user-attachments/assets/ec1ee812-3d66-46ef-a278-888bf4eee0fc" />
+
 
 ## ⚙️ Tools Used  
 - Microsoft Excel  
@@ -47,9 +48,9 @@ This project aims to help Walmart leadership understand sales and profit perform
 - Expand marketing in **underperforming but potential-rich markets**  
 - Utilize this dashboard for **monthly performance reviews**
 
-## 🏁 Final Conclusion  
+## 🏁 Final Conclusion  📸
 The project shows how **Excel** can be leveraged for **data analysis** and **business intelligence**, enabling decision-makers to quickly grasp performance trends and act on insights. The dashboard is modular, scalable, and fully interactive for ongoing use.
-
+<img width="734" alt="Screenshot 2025-05-08 141314" src="https://github.com/user-attachments/assets/0157cbdd-c406-4263-a82a-0ed1213f59ee" />
 ---
 
 ### 💡 Made with 💚 by a Data Analyst Enthusiast  
